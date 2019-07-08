@@ -1,2 +1,2 @@
 # CS141
-CS141; Intermediate Data Structures &amp; Algorithms with Stefano Lonardi
+<i><a style="font-family:helvetica;">INTERMEDIATE DATA STRUCTURES & ALGORITHMS</i></a>
